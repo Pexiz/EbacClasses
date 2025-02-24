@@ -40,7 +40,7 @@ public class Atividade_Split {
 
 
         while (!sair) {
-            System.out.println("Digite nome de pessoas com a - separando nome e genero PEDRO-m mariana ");
+            System.out.println("Digite nome de pessoas com a - separando nome e genero PEDRO-m-Mariana-f ");
             String valor = scanner.nextLine();
             String[] nomes = valor.split("-");
 
